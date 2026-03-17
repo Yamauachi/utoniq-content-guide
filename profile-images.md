@@ -34,7 +34,7 @@
   - `fit=crop&crop=face` で顔を中心にクロップされる
 - **VTuber画像**：高品質なアニメ風イラストを使用
   - 星月ルナ：thiswaifudoesnotexist.net（AI生成・高品質アニメ顔）
-  - 闇夜カゲロウ：要差替（適切な男性VTuber用イラスト検討中）
+  - 闇夜カゲロウ：nekos.best（高品質男性アニメキャラクター）
 
 ---
 
