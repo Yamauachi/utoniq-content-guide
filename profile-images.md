@@ -47,7 +47,7 @@
 | ハルト | ![](https://images.unsplash.com/photo-1698250542924-1f5ca454bb5b?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1698250542924-1f5ca454bb5b?w=150&h=150&fit=crop&crop=face` |
 | レン | ![](https://images.unsplash.com/photo-1679377451157-5b212bd9d6a0?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1679377451157-5b212bd9d6a0?w=150&h=150&fit=crop&crop=face` |
 | ソラ | ![](https://images.unsplash.com/photo-1654917249474-e508a8f64600?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1654917249474-e508a8f64600?w=150&h=150&fit=crop&crop=face` |
-| ユウキ | ![](https://images.unsplash.com/photo-1619255973026-ce92235804b5?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1619255973026-ce92235804b5?w=150&h=150&fit=crop&crop=face` |
+| ユウキ | ![](https://images.unsplash.com/photo-1722110719850-f41e0e8bcd5c?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1722110719850-f41e0e8bcd5c?w=150&h=150&fit=crop&crop=face` |
 | カイト | ![](https://images.unsplash.com/photo-1619253692124-56dd8f736ca3?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1619253692124-56dd8f736ca3?w=150&h=150&fit=crop&crop=face` |
 
 ## ファンペルソナ
@@ -57,7 +57,7 @@
 | キャラクター | プレビュー | 画像URL |
 |---|---|---|
 | 夏希（23歳女性） | ![](https://images.unsplash.com/photo-1759853899768-1413926111cb?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1759853899768-1413926111cb?w=150&h=150&fit=crop&crop=face` |
-| りな（19歳女性） | ![](https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face` |
+| りな（19歳女性） | ![](https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face` |
 | ケンタ（27歳男性） | ![](https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face` |
 
 ## サブアーティスト
@@ -66,7 +66,7 @@
 
 | キャラクター | プレビュー | 画像URL |
 |---|---|---|
-| 月島 遥（女性SSW） | ![](https://images.unsplash.com/photo-1545947288-c22ade2af79d?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1545947288-c22ade2af79d?w=150&h=150&fit=crop&crop=face` |
+| 月島 遥（女性SSW） | ![](https://images.unsplash.com/photo-1623227146854-51b32ca7b84d?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1623227146854-51b32ca7b84d?w=150&h=150&fit=crop&crop=face` |
 | 藤宮 朱音（女性声優） | ![](https://images.unsplash.com/photo-1759725415895-775562df4088?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1759725415895-775562df4088?w=150&h=150&fit=crop&crop=face` |
 | THE ORBIT タクヤ（バンド） | ![](https://images.unsplash.com/photo-1665118439071-8bc2c89f73af?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1665118439071-8bc2c89f73af?w=150&h=150&fit=crop&crop=face` |
 
@@ -93,7 +93,7 @@
 
 | 用途 | プレビュー | 画像URL |
 |---|---|---|
-| モブファン1（女性） | ![](https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face` |
+| モブファン1（女性） | ![](https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face` |
 | モブファン2（男性） | ![](https://images.unsplash.com/photo-1678531730619-5c0cbb7735be?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1678531730619-5c0cbb7735be?w=150&h=150&fit=crop&crop=face` |
 | モブファン3（女性） | ![](https://images.unsplash.com/photo-1647719518553-2a8091862f3f?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1647719518553-2a8091862f3f?w=150&h=150&fit=crop&crop=face` |
 | モブファン4（男性） | ![](https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face` |
