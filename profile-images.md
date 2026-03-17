@@ -84,7 +84,7 @@
 | 落陽（バンド） | 実写 | ![](https://images.unsplash.com/photo-1540541382853-9d06e3479235?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1540541382853-9d06e3479235?w=150&h=150&fit=crop&crop=face` |
 | 天音 まひろ（女性声優） | 実写 | ![](https://images.unsplash.com/photo-1654907300621-78c0edc0570a?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1654907300621-78c0edc0570a?w=150&h=150&fit=crop&crop=face` |
 | 御影 陸（男性声優） | 実写 | ![](https://images.unsplash.com/photo-1661854236305-b02cef4aa0af?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1661854236305-b02cef4aa0af?w=150&h=150&fit=crop&crop=face` |
-| 星月ルナ（女性VTuber） | **イラスト** | ![](https://www.thiswaifudoesnotexist.net/example-5555.jpg) | `https://www.thiswaifudoesnotexist.net/example-5555.jpg` |
+| 星月ルナ（女性VTuber） | **イラスト** | ![](https://wsrv.nl/?url=https://www.thiswaifudoesnotexist.net/example-5555.jpg&w=150&h=150&fit=cover) | `https://www.thiswaifudoesnotexist.net/example-5555.jpg` |
 | 闇夜カゲロウ（男性VTuber） | **イラスト** | ![](https://api.dicebear.com/9.x/lorelei/png?seed=YamiyoKagerou&size=150&backgroundColor=1e1b4b) | `https://api.dicebear.com/9.x/lorelei/png?seed=YamiyoKagerou&size=150&backgroundColor=1e1b4b` ※要差替 |
 
 ## モブファン（コメント欄等で使う匿名アバター）
