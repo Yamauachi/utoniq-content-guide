@@ -58,7 +58,7 @@
 |---|---|---|
 | 夏希（23歳女性） | ![](https://images.unsplash.com/photo-1759853899768-1413926111cb?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1759853899768-1413926111cb?w=150&h=150&fit=crop&crop=face` |
 | りな（19歳女性） | ![](https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face` |
-| ケンタ（27歳男性） | ![](https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face` |
+| ケンタ（27歳男性） | ![](https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face` |
 
 ## サブアーティスト
 
@@ -96,5 +96,5 @@
 | モブファン1（女性） | ![](https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face` |
 | モブファン2（男性） | ![](https://images.unsplash.com/photo-1678531730619-5c0cbb7735be?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1678531730619-5c0cbb7735be?w=150&h=150&fit=crop&crop=face` |
 | モブファン3（女性） | ![](https://images.unsplash.com/photo-1647719518553-2a8091862f3f?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1647719518553-2a8091862f3f?w=150&h=150&fit=crop&crop=face` |
-| モブファン4（男性） | ![](https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face` |
+| モブファン4（男性） | ![](https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face` |
 | モブファン5（女性） | ![](https://images.unsplash.com/photo-1677597889434-4f4cffec5220?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1677597889434-4f4cffec5220?w=150&h=150&fit=crop&crop=face` |
