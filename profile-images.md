@@ -44,11 +44,11 @@
 
 | キャラクター | プレビュー | 画像URL |
 |---|---|---|
-| ハルト | ![](https://images.unsplash.com/photo-1585225010499-e5d61026b932?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1585225010499-e5d61026b932?w=150&h=150&fit=crop&crop=face` |
-| レン | ![](https://images.unsplash.com/photo-1729559149720-2b6c5c200428?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1729559149720-2b6c5c200428?w=150&h=150&fit=crop&crop=face` |
+| ハルト | ![](https://images.unsplash.com/photo-1698250542924-1f5ca454bb5b?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1698250542924-1f5ca454bb5b?w=150&h=150&fit=crop&crop=face` |
+| レン | ![](https://images.unsplash.com/photo-1679377451157-5b212bd9d6a0?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1679377451157-5b212bd9d6a0?w=150&h=150&fit=crop&crop=face` |
 | ソラ | ![](https://images.unsplash.com/photo-1654917249474-e508a8f64600?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1654917249474-e508a8f64600?w=150&h=150&fit=crop&crop=face` |
 | ユウキ | ![](https://images.unsplash.com/photo-1619255973026-ce92235804b5?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1619255973026-ce92235804b5?w=150&h=150&fit=crop&crop=face` |
-| カイト | ![](https://images.unsplash.com/photo-1585220703112-616f98566b45?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1585220703112-616f98566b45?w=150&h=150&fit=crop&crop=face` |
+| カイト | ![](https://images.unsplash.com/photo-1619253692124-56dd8f736ca3?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1619253692124-56dd8f736ca3?w=150&h=150&fit=crop&crop=face` |
 
 ## ファンペルソナ
 
@@ -56,9 +56,9 @@
 
 | キャラクター | プレビュー | 画像URL |
 |---|---|---|
-| 夏希（23歳女性） | ![](https://images.unsplash.com/photo-1675388545634-83d816322c83?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1675388545634-83d816322c83?w=150&h=150&fit=crop&crop=face` |
-| りな（19歳女性） | ![](https://images.unsplash.com/photo-1544385183-10189e50ff56?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1544385183-10189e50ff56?w=150&h=150&fit=crop&crop=face` |
-| ケンタ（27歳男性） | ![](https://images.unsplash.com/photo-1597035814924-44d6a6320549?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1597035814924-44d6a6320549?w=150&h=150&fit=crop&crop=face` |
+| 夏希（23歳女性） | ![](https://images.unsplash.com/photo-1759853899768-1413926111cb?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1759853899768-1413926111cb?w=150&h=150&fit=crop&crop=face` |
+| りな（19歳女性） | ![](https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1752312640883-e8953a068d83?w=150&h=150&fit=crop&crop=face` |
+| ケンタ（27歳男性） | ![](https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1742151103301-d16bc800c0d9?w=150&h=150&fit=crop&crop=face` |
 
 ## サブアーティスト
 
@@ -67,7 +67,7 @@
 | キャラクター | プレビュー | 画像URL |
 |---|---|---|
 | 月島 遥（女性SSW） | ![](https://images.unsplash.com/photo-1545947288-c22ade2af79d?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1545947288-c22ade2af79d?w=150&h=150&fit=crop&crop=face` |
-| 藤宮 朱音（女性声優） | ![](https://images.unsplash.com/photo-1676777493576-1432f14373bb?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1676777493576-1432f14373bb?w=150&h=150&fit=crop&crop=face` |
+| 藤宮 朱音（女性声優） | ![](https://images.unsplash.com/photo-1759725415895-775562df4088?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1759725415895-775562df4088?w=150&h=150&fit=crop&crop=face` |
 | THE ORBIT タクヤ（バンド） | ![](https://images.unsplash.com/photo-1665118439071-8bc2c89f73af?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1665118439071-8bc2c89f73af?w=150&h=150&fit=crop&crop=face` |
 
 ## 追加アーティスト（artists-list.md）
@@ -80,12 +80,12 @@
 | 蒼天（男性ダンスボーカル） | 実写 | ![](https://images.unsplash.com/photo-1641615873382-ab1541a039fa?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1641615873382-ab1541a039fa?w=150&h=150&fit=crop&crop=face` |
 | 柊 咲良（女性SSW） | 実写 | ![](https://images.unsplash.com/photo-1642435395055-5dc8b870f00c?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1642435395055-5dc8b870f00c?w=150&h=150&fit=crop&crop=face` |
 | 霧島 カナタ（男性SSW） | 実写 | ![](https://images.unsplash.com/photo-1596387167508-f2464e15f098?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1596387167508-f2464e15f098?w=150&h=150&fit=crop&crop=face` |
-| Midnight Circus（バンド） | 実写 | ![](https://images.unsplash.com/photo-1759736859290-631535c4f77e?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1759736859290-631535c4f77e?w=150&h=150&fit=crop&crop=face` |
-| 落陽（バンド） | 実写 | ![](https://images.unsplash.com/photo-1540541382853-9d06e3479235?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1540541382853-9d06e3479235?w=150&h=150&fit=crop&crop=face` |
+| Midnight Circus（バンド） | 実写 | ![](https://images.unsplash.com/photo-1617814053951-e3bd095192be?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1617814053951-e3bd095192be?w=150&h=150&fit=crop&crop=face` |
+| 落陽（バンド） | 実写 | ![](https://images.unsplash.com/photo-1591128429893-ac9952c1c892?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1591128429893-ac9952c1c892?w=150&h=150&fit=crop&crop=face` |
 | 天音 まひろ（女性声優） | 実写 | ![](https://images.unsplash.com/photo-1654907300621-78c0edc0570a?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1654907300621-78c0edc0570a?w=150&h=150&fit=crop&crop=face` |
-| 御影 陸（男性声優） | 実写 | ![](https://images.unsplash.com/photo-1661854236305-b02cef4aa0af?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1661854236305-b02cef4aa0af?w=150&h=150&fit=crop&crop=face` |
+| 御影 陸（男性声優） | 実写 | ![](https://images.unsplash.com/photo-1669626068866-22b1620be2e3?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1669626068866-22b1620be2e3?w=150&h=150&fit=crop&crop=face` |
 | 星月ルナ（女性VTuber） | **イラスト** | ![](https://wsrv.nl/?url=https://www.thiswaifudoesnotexist.net/example-5555.jpg&w=150&h=150&fit=cover) | `https://www.thiswaifudoesnotexist.net/example-5555.jpg` |
-| 闇夜カゲロウ（男性VTuber） | **イラスト** | ![](https://api.dicebear.com/9.x/lorelei/png?seed=YamiyoKagerou&size=150&backgroundColor=1e1b4b) | `https://api.dicebear.com/9.x/lorelei/png?seed=YamiyoKagerou&size=150&backgroundColor=1e1b4b` ※要差替 |
+| 闇夜カゲロウ（男性VTuber） | **イラスト** | ![](https://wsrv.nl/?url=https://nekos.best/api/v2/husbando/950eae96-5689-48f4-adb1-23555f3a2358.png&w=150&h=150&fit=cover) | `https://nekos.best/api/v2/husbando/950eae96-5689-48f4-adb1-23555f3a2358.png` |
 
 ## モブファン（コメント欄等で使う匿名アバター）
 
@@ -93,8 +93,8 @@
 
 | 用途 | プレビュー | 画像URL |
 |---|---|---|
-| モブファン1（女性） | ![](https://images.unsplash.com/photo-1667382137349-0f5cb5818a7c?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1667382137349-0f5cb5818a7c?w=150&h=150&fit=crop&crop=face` |
+| モブファン1（女性） | ![](https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1730387432242-c707a42503f5?w=150&h=150&fit=crop&crop=face` |
 | モブファン2（男性） | ![](https://images.unsplash.com/photo-1678531730619-5c0cbb7735be?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1678531730619-5c0cbb7735be?w=150&h=150&fit=crop&crop=face` |
 | モブファン3（女性） | ![](https://images.unsplash.com/photo-1647719518553-2a8091862f3f?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1647719518553-2a8091862f3f?w=150&h=150&fit=crop&crop=face` |
-| モブファン4（男性） | ![](https://images.unsplash.com/photo-1605504836193-e77d3d9ede8a?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1605504836193-e77d3d9ede8a?w=150&h=150&fit=crop&crop=face` |
+| モブファン4（男性） | ![](https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1620295694696-f57fc3ae9182?w=150&h=150&fit=crop&crop=face` |
 | モブファン5（女性） | ![](https://images.unsplash.com/photo-1677597889434-4f4cffec5220?w=150&h=150&fit=crop&crop=face) | `https://images.unsplash.com/photo-1677597889434-4f4cffec5220?w=150&h=150&fit=crop&crop=face` |
